@@ -46,6 +46,7 @@ int main ()
 		cout<<arr[i]<<" ";
 	}
 	cout <<end;
+	#if 0
 	return 0;
 	
 }
